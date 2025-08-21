@@ -5,8 +5,12 @@
 
 - compte admin puis user
 
+- clamAV
+
 - keepassxc
 
 - secure boot
 
 - firefox = https only / ublock origin / privacy badger / keepassxc / https only etc
+
+- look for other app (discord / steam / netflix / etc)
