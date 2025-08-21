@@ -1,0 +1,12 @@
+- documents sur le drive
+- ubuntu 24.04 sur usb via etcher
+- mettre clé usb rédemarrer et aller dans el bios
+- faire try puis installer
+
+- compte admin puis user
+
+- keepassxc
+
+- secure boot
+
+- firefox = https only / ublock origin / privacy badger / keepassxc / https only etc
