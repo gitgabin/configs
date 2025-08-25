@@ -4,7 +4,7 @@ PC :
 - CPU : AMD Ryzen 5 5600 /= 110€
 - Carte mère : 	Gigabyte B550M DS3H /= 80€
 - RAM 2x8Go : Corsair Vengeance RGB RS 16 Go (2 x 8 Go) /= 50€
-- GPU :
+- GPU : Carte Graphique MSI GeForce RTX 3060 Ventus 2X 12 Go OC Noir /= 330€
 - SSD 1to /= 60€
 - Almin : Bronze plus /= 60€
 - Boitier : MSI MAG FORGE 100M Boitier PC Gaming Moyen Tour Noir, 2x Ventilateurs 120mm RGB PWM, 1x Ventilateur 120mm, Hub RGB 1-6 , Panneau Latéral en Verre Trempé, ATX, mATX, mini-ITX /= 60€
